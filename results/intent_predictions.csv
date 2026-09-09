@@ -1,0 +1,216 @@
+customer_tweet_id,customer_text,evaluation_intent,predicted_intent,candidate_intent
+2687005,@VerizonSupport Power supply has been constant; no outages.,service_outage,service_outage,service_outage
+584851,@VerizonSupport I want to pay off my phone to get a new one and wondering what else I would need to pay besides the activation fee? Please respond,general_support,billing_payment,general_support
+1539741,@VerizonSupport On the phone with a tech now. I think hes shipping us a new router. First problem in two years. https://t.co/ZYDg6yOgNj,internet_connectivity,internet_connectivity,internet_connectivity
+2200380,"@VerizonSupport Apple iphone no longer working after 1 year, turning on and off repeatedly. I went into verizon, where I have insurance, and received no help at all. Your incompetent employees claimed insurance wouldn't work and that I would be unable to use an available update on our plan.",plan_upgrade,plan_upgrade,plan_upgrade
+1939557,@VerizonSupport I AM MOVING INTO A NEW PLACE SO THIS WOULD BE A NEW ACCOUNT. THE SERVICE I AM RECIVING IS HORRIBLE GOING TO TELL EVERYONE I KNOW.,general_support,account_authentication,account_authentication
+463706,@115722 @115722 just had the worst customer service experience of my life. 10 YEAR loyal customer and you renew my account for 2 year contract in error!!! I called as soon as I noticed this problem and the customer service person was rude and inconsiderate.,plan_upgrade,plan_upgrade,account_authentication
+616382,@VerizonSupport You're unaware you bill wireless &amp; business together? I think I'll pass on the 'help'. Can't wait for you to try &amp; charge me for cancelling.,billing_payment,billing_payment,billing_payment
+1634627,"another month, another $130 to @115725. one dollar per five kilobytes of download speed. https://t.co/LsYqoN3KGh",service_outage,general_support,unknown
+1749583,I pay too much for your service to suck @115725 😒,general_support,billing_payment,unknown
+1735588,"@VerizonSupport Been a customer 10 years and I have scheduled a disconnect date for Friday, I have switched to @21274 because of the frustration.",internet_connectivity,internet_connectivity,internet_connectivity
+2640611,"@VerizonSupport I'm in TN, they called my cell. Said I was overcharged by $25 (and some change) and I had to verify some things and I said they should know my name, etc. He tried to tell me his employee ID or something but ultimately hung up.",billing_payment,billing_payment,billing_payment
+1148472,"@117310 @115725 You’re a hypocrite Univision. Because it’s free on an antenna, yet you want Verizon customers to pay more for your channel.",general_support,billing_payment,unknown
+1684964,@115725 do you pay off other plans to join your team,plan_upgrade,plan_upgrade,plan_upgrade
+388692,"@VerizonSupport Aside from having a broken tablet I'm still paying for, I'm dealing with a snarky, confused CS rep who seems to be way in over his head.",general_support,billing_payment,billing_payment
+1615922,"@495560 @115725 verizon, your service sucks everywhere",general_support,general_support,unknown
+2864294,"@comcastcares @795604 What?????? That is awful, even @115722 can do that. Don’t make me switch back",general_support,general_support,unknown
+2257192,"@VerizonSupport do you do support for Verizon FIOS TV, Verizon wireless or something else?",internet_connectivity,internet_connectivity,internet_connectivity
+2115085,@VerizonSupport I actually almost started with Verizon but I was surprised by the price changes throughout the 2 year contract. I'll look back into it.,plan_upgrade,plan_upgrade,plan_upgrade
+1185611,"Yet again, I can't sign in to pay my @115725 bill.",billing_payment,billing_payment,billing_payment
+1559655,@115722 why charge $20 more with no notice? #badcustomerservice #TimetoswitchtoRCN,billing_payment,billing_payment,billing_payment
+377912,@205677 @VerizonSupport I'm having the same problems. All my premium accounts have logged me out and are saying I don't subscribe.,general_support,account_authentication,account_authentication
+1768719,@VerizonSupport yes,general_support,general_support,general_support
+2973080,@VerizonSupport https://t.co/jQ49gmCIf2 accessories order,order_equipment,order_equipment,order_equipment
+1825446,@comcastcares Done. Verizon for Internet and security and sling for TV. Happens tomorrow. Bill is ridiculous and deal with outage 2 straight nights?!,service_outage,service_outage,service_outage
+1799386,@115722 @72197  Any reason the app says mine and my wife's bill is past due and we know its current? https://t.co/iTMP3UIQ29,billing_payment,billing_payment,billing_payment
+616060,@VerizonSupport That was main reason for call. Now I have now dvr and they want to charge me an additional 20$ I am still waiting on call from a manager sup,billing_payment,billing_payment,billing_payment
+94963,"A 200 home Verizon bill is ridiculous but yet, I’m paying it. -_-",billing_payment,billing_payment,billing_payment
+2911969,@VerizonSupport Tell me - can you get a manager from the billing department and services to just call me back directly?  So I don't have to cry again on the phone?,billing_payment,billing_payment,billing_payment
+61958,"@VerizonSupport 11 year customer...paid over $50k to @115725 over that time. Trying to drop a single phone line from my account and get stonewalled with ""this is our policy"" BS... YOUR POLICY AND CUSTOMER SUPPORT MAKE PEOPLE HATE YOUR COMPANY https://t.co/3JOSZqUUTr",general_support,account_authentication,account_authentication
+271119,"@VerizonSupport The set top box I was using was not the main box, howbeit it does have dvr capability. None of the packaged channels were working (15-20min)",order_equipment,order_equipment,order_equipment
+393814,@VerizonSupport @115725 what  teams are considered in market in Syracuse?,general_support,general_support,general_support
+2346859,@VerizonSupport sos,general_support,general_support,general_support
+503754,@235399 @121836 I cut my cable after the election....  Now I'm trying to decide whether I want Comcast or Verizon fios.........,internet_connectivity,internet_connectivity,internet_connectivity
+280273,@VerizonSupport these guys get your money if you don't question your bill. I need a different carrier. Any suggestions my people?,billing_payment,billing_payment,billing_payment
+1186953,@VerizonSupport Says contractual. I pay for the NBA ticket. Which is 300 a season and I can't even watch my team. Happens again I'm dropping,plan_upgrade,plan_upgrade,plan_upgrade
+1238608,@VerizonSupport hey I'm experiencing an outage can you assist ?,service_outage,service_outage,service_outage
+954270,@VerizonSupport Mobile. I ordered an iPhone X on 10/27 and got the email last night.,order_equipment,order_equipment,order_equipment
+1697052,@VerizonSupport  Someone misplaced the remote control for the main box in the living room😭😭😭. How can I order another one?,order_equipment,order_equipment,order_equipment
+666645,@115990 You only offer DSL in our area.  Been a problem for about 7 years.  The network is old and needs upgraded,plan_upgrade,plan_upgrade,plan_upgrade
+1349059,@115990 Awful Service. Ruined Holiday. Customer Service Horrific. Watch Your Bank Account NEVER pay Verizon on Autopay.,billing_payment,billing_payment,billing_payment
+2370239,@VerizonSupport my husband received a “bill” in the mail for a Verizon wireless account that he does not have. is there any way for you to check if this is legitimate or a scam letter?,billing_payment,billing_payment,billing_payment
+1237404,Having to leave @115722 for @115900 is the worst part of moving to #Baltimore.,general_support,general_support,unknown
+929430,@comcastcares not very helpful in resolving any of my pain points. Looks like I will be going to @115725 for internet/cable! I tried 🤷🏽‍♀️,internet_connectivity,internet_connectivity,internet_connectivity
+2352667,@VerizonSupport No clue....I’m connected to the 5G option,internet_connectivity,general_support,general_support
+1075585,@11603  the login verification is not working! # @115725,account_authentication,account_authentication,account_authentication
+1106290,So glad my cable decides not to work right before kickoff. @115722 go fuck yourself.,general_support,internet_connectivity,unknown
+544770,@VerizonSupport still not working,general_support,general_support,general_support
+2200321,@VerizonSupport I am tired of dying every single game of Fortnite because of stupid ass lag,general_support,general_support,general_support
+1619758,".@115725 .@VerizonSupport service sucks anywhere near the border. Works great roaming, but phone wont STAY roaming. #iphonepaperweight https://t.co/buM4146Sn5",order_equipment,order_equipment,order_equipment
+2816116,Yo @115722 What's Happening With The Net Fam? My service is down.,service_outage,service_outage,service_outage
+302852,"@VerizonSupport can you help with business accounts? specifically, online account services. thank you.",general_support,account_authentication,account_authentication
+2711208,"Thanks @115725 @115722 for getting back to
+@117310 again.Very Grateful!!! Thanks!!!!!!",general_support,billing_payment,unknown
+410316,@VerizonSupport Because all the history should have been recorded on your imaginary “this shall be recorded for quality assurance purposes” mailbox,general_support,general_support,general_support
+2081462,"@VerizonSupport 
+
+I need to open a new business account. I tried calling customer service but it said they're closed. Please help",general_support,account_authentication,account_authentication
+2228499,"I was told by @115725 staff in store I had to call a number to get my new account done
+
+HOW WHEN MY SERVICE WAS SUSPENDED",general_support,account_authentication,account_authentication
+1483338,@VerizonSupport I set up automatic billing. Then you sent me an email saying I owe you money.,billing_payment,billing_payment,billing_payment
+2408076,@VerizonSupport Can you provide an updated estimated delivery date for Order 75789?  Your site doesn't seem to list a delivery date.,order_equipment,order_equipment,order_equipment
+548899,@115722 is there an outage in NYC? I’ve already tried rebooting my box and am waiting on hold to speak to someone,service_outage,service_outage,service_outage
+1255287,@115722 @115722 hello!?! Very upset that I️ lost paybyeatersy because you sent bad network extender and took 4 hours to install. Tech was GR8!!,general_support,internet_connectivity,unknown
+2100396,"@116136 Fios-4 years-0 outages Comcast-6 days-3 outages, not a good situation when you work from home",service_outage,service_outage,service_outage
+1407918,@VerizonSupport Your reps have no idea what they are doing. I called to ask a few questions and they changed my plan to a more expensive one,plan_upgrade,plan_upgrade,plan_upgrade
+1613522,@VerizonSupport Almost a week now. Service still NOT restored. Ticket status updates are UNRELIABLE. Apparently an outage affecting 10+ customers in building. But you can't seem to provide a RELIABLE timeframe on when it will be fixed. Totally unacceptable. What am I paying for? #badservice,service_outage,service_outage,service_outage
+391956,@VerizonSupport I’m unable to connect to the internet. Did all the troubleshooting steps in the app. Rebooted router. Now red globe.,internet_connectivity,internet_connectivity,internet_connectivity
+2534698,"@721178 @115725 Verizon customer service is pretty good in my experience, anything they can't fix over the phone they send a technician right away.",general_support,general_support,general_support
+2027204,@115722 Concerned customer here: is the Fios Quantum Gateway router vulnerable to KRACK? Are firmware updates available? Thx!,internet_connectivity,internet_connectivity,internet_connectivity
+1299250,@VerizonSupport why did you add services to my account that I did not sign up for? #fraud,general_support,account_authentication,account_authentication
+277729,"@14042 Give malliotakis a chance,u supporter of criminal-lover,quality-of-life-destroyer Deblasio!Shame on u!😡 Fios is looking good now!",internet_connectivity,internet_connectivity,internet_connectivity
+1300414,"@115725 How nany god damn times do I need to call you out on this throttling bullshit! I pay for 50Mbps, I want 50Mbps #NetNeutraility https://t.co/8g3iE2sg6j",general_support,general_support,unknown
+765926,@VerizonSupport Seriously? Another outage? What's the reason for all these outages?,service_outage,service_outage,service_outage
+1639980,@VerizonSupport The follow up went so poorly that I cancelled. So I cancelled Fri AM a few hours after ordering.,order_equipment,order_equipment,order_equipment
+747124,"@VerizonSupport Nevermind the router and cable needed an update, but it would be nice to get a notification when one is needed. But thank you for the help 👌",internet_connectivity,internet_connectivity,internet_connectivity
+411704,@115722 any network problems? I get an error that my account info can’t be verified due to a network issue,general_support,account_authentication,account_authentication
+2187329,@VerizonSupport i feel i am not going to like the response your phone rep is going to give me. better to not opt anyone in to renewals if it will cost them money to get out. better let them renew when they become aware they are no longer part of a plan.,billing_payment,plan_upgrade,plan_upgrade
+1330854,"@VerizonSupport Held alarm button 25sec, rebooted router, power at plug is on.  Still nothing.",internet_connectivity,internet_connectivity,internet_connectivity
+2577923,@VerizonSupport Do I need a new password,account_authentication,account_authentication,account_authentication
+315817,@VerizonSupport yes. i need my account scrubbed.,general_support,account_authentication,account_authentication
+520957,@240283 @VerizonSupport Well if it ever activates I’d be able to tell you,general_support,general_support,general_support
+1112164,"@382476 @115722 Kinda like @247 
+They have a “flex” pack but it’s really just a smaller package of channels, many of which I wouldn’t ever watch.",order_equipment,order_equipment,order_equipment
+1823713,@VerizonSupport My internet is out in NY. There is an outage ticket NYES091823 on my account. Do you really expect to fix it tomorrow night?,service_outage,service_outage,service_outage
+2208984,@VerizonSupport one of your customers signed up for a Verizon account using my email address (hopefully by mistake). How can I get my email address removed from your database so I stop getting low data emails for an account I don't have?,general_support,account_authentication,account_authentication
+2758444,Yo @VerizonSupport any switcher promos coming up? I have 5 lines ready to leave @sprintcare,general_support,general_support,general_support
+759255,@VerizonSupport You guys screwing with my billing,billing_payment,billing_payment,billing_payment
+1749594,@115990 Your internet has been slow lately and the router is in the room next to mine. What can I do to make it better??,internet_connectivity,internet_connectivity,internet_connectivity
+1822671,@115722 do you service astoria ny? @Ask_Spectrum @115955 is horrendous! Gladly pay whatever to switch over to @115722,general_support,internet_connectivity,unknown
+903385,"@115722 I shouldn't have to compare online vs. chat rep vs. phone rep rates and essentially shop around within Verizon. And furthermore, pit the chat rep and phone rep against each other for the best rate. It's like trying to buy a used car. Just an insane business model.",general_support,plan_upgrade,unknown
+1712250,@VerizonSupport This is not helpful. I just need to know if there is an outage in my area. The link doesn’t make that clear.,service_outage,service_outage,service_outage
+1748416,@VerizonSupport No on my phone ever since I've gone to unlimited data it's been super slow it's been a constant problem.,plan_upgrade,plan_upgrade,plan_upgrade
+1822664,@VerizonSupport does fios have the Hallmark Drama channel?,internet_connectivity,internet_connectivity,internet_connectivity
+2451594,The @119033/@115725 app for @116602 on my @152505 TV sucks balls!  😩😩,general_support,internet_connectivity,unknown
+2935633,"@115725 hey quick question. Do you guys screw over a lot of military members while they are deployed, or was it just me? Is it also standard practice for you to learn the mistake was in your end and still attempt to charge people?? Or am I like your 1000000 customer?",billing_payment,billing_payment,billing_payment
+1581826,@VerizonSupport Hi if you notice in my first tweet I said the coax is fine. I already unscrewed and screwed back in,general_support,general_support,general_support
+713955,@VerizonSupport My equipment was shipped to my address when I had selected for it not to be shipped because I am not at the residence yet.,order_equipment,order_equipment,order_equipment
+485742,@VerizonSupport Any info on the outage in the Phoenix area? Cell service has been down mostly for more than an hour. Thx!,service_outage,service_outage,service_outage
+1274487,@418327 @207389 Ha!  Wish I could....no longer able to watch @207389 on Verizon Fios @115725 #fail,internet_connectivity,internet_connectivity,internet_connectivity
+1542408,@VerizonSupport I want to thank James for being such a HUGE help with moving my Verizon services! 😁,general_support,general_support,general_support
+272057,@115722 all night during Patriots and Bruins games I’m getting green screens and muted sound!!!  Get it together. $190/month for this?,general_support,internet_connectivity,unknown
+2115162,Hey @115722 do you enter ppl in random contracts when they want to leave like @116021 does?,plan_upgrade,plan_upgrade,plan_upgrade
+1708951,@VerizonSupport I don't think so,general_support,general_support,general_support
+916310,@VerizonSupport Can you start a dm?,general_support,general_support,general_support
+1943470,"@VerizonSupport Yes but it either says something like ""unable to join"" or ""incorrect password""",account_authentication,account_authentication,account_authentication
+485764,"@VerizonSupport How long will cell service be out in PHX,AZ",general_support,general_support,general_support
+376225,@VerizonSupport Yes. DSL but only use for WIFI. We don't use the landline at all. Extremely slow speeds. Do I have to pay more for bandwidth?,internet_connectivity,internet_connectivity,internet_connectivity
+1592297,@VerizonSupport This - we cancelled HBO this week and now we can’t order PPVs? https://t.co/CKWyEyEpYW,order_equipment,order_equipment,order_equipment
+775641,@VerizonSupport Upgraded to a Comedy Central package and it took away all my original channels...and we can't get them back #bringbackmysports,order_equipment,order_equipment,order_equipment
+729981,"@115725 @115725 ""tech support"": Well, there's no outages in your area.""
+Me: ""Why you lie, though?"" https://t.co/tFMaMJcxVt",service_outage,service_outage,service_outage
+1914305,@125005 @VerizonSupport @115722 How long for my order to get done,order_equipment,order_equipment,order_equipment
+2792636,"@VerizonSupport Signing in fine on the site, but when I use the same info on the sign-in on the Fox Sports Go app, it's telling me the info is wrong.",general_support,general_support,general_support
+2247639,@VerizonSupport Bill went from $88 to $152 because I moved and you couldn't fulfill my old contract. Guess it wasn't true when they said the price would still be the same.,billing_payment,billing_payment,billing_payment
+2231635,"17.5 hours on the phone, numerous emails and twitter dms with @116136 @comcastcares and after 74 days my account is still not right and content I paid for is not accessible. Probably time to switch to @115722",general_support,account_authentication,account_authentication
+1697050,@VerizonSupport Thanks. I just ordered one. I Don't know what I would without y'all. Verizon's customer service skills are impeccable😍😍👍👍,order_equipment,order_equipment,order_equipment
+359423,"@VerizonSupport 2. I have unlimited data and my hotspot has worked perfect until the recent ""upgrade"" which now limits my access after 15gb.",plan_upgrade,plan_upgrade,plan_upgrade
+717440,@VerizonSupport I am having trouble signing in on Beinsports streaming site and need some help,general_support,general_support,general_support
+1533479,@115722 the test fails at 95% every time,general_support,general_support,unknown
+432615,"@115722 Fix it! TODAY! Per scheduled plan from 10/7 when it WAS SUPPOSED to be installed!! No issue w/ @8642, @117830, or @116021",plan_upgrade,plan_upgrade,plan_upgrade
+750992,the @115725 login page is so messed up i can't even pay my bill.... wtf verizon. get it together.,billing_payment,billing_payment,billing_payment
+2127894,@115725 I’m having some MAJOR issues with my account. Please help.,general_support,account_authentication,account_authentication
+2782323,@VerizonSupport Mannnnnnn y’all charged me for services I’m not using. IM HURT MAN,billing_payment,billing_payment,billing_payment
+1407063,@VerizonSupport tech replaced  FIOS HW today @ no svcs for last 5 hrs due 2 delay On “east coast”. Wish We were told Deplorable cust svcs,internet_connectivity,internet_connectivity,internet_connectivity
+374085,@VerizonSupport does watching primetime &amp; local NFL games on the NFL mobile app use my data from my plan allotment?,plan_upgrade,plan_upgrade,plan_upgrade
+775629,@VerizonSupport I don't use the app. Only the https://t.co/mQb8ZB00iS login flow.,account_authentication,general_support,general_support
+1207690,@VerizonSupport So I just connect a Ethernet from the fios router to the NightHawk?,internet_connectivity,internet_connectivity,internet_connectivity
+1253198,@VerizonSupport No. WiFi went out &amp; I checked my area for outages. Says it won't be restored until after 3am.,service_outage,service_outage,service_outage
+1761851,@VerizonSupport I got some questions about your prepaid devices and plans. Could we DM and get everything sorted?,plan_upgrade,plan_upgrade,plan_upgrade
+275603,"@VerizonSupport 
+My mobile data will not work while I am on a phone call.
+Can you DM me with some solutions.  Also the phone is sooooo slow after the upgrade.",plan_upgrade,plan_upgrade,plan_upgrade
+748065,@VerizonSupport nevermind here are the results: https://t.co/uYF6AZMspS,general_support,general_support,general_support
+2200384,@VerizonSupport I need the IPhone X,general_support,general_support,general_support
+859505,.@115955 try to cancel Viacom if you want to. I will switch to @115722 w/ lightening-fast speed. cc: @72376 @72377 https://t.co/G1ahDPI9Vg,general_support,general_support,unknown
+1226961,"@VerizonSupport No error message. After I click place order, the whole page ""grays out"" &amp; the order doesn't go thru.",order_equipment,order_equipment,order_equipment
+1735591,"@115725 need A BILLING MANAGER TO CONTACT ME ASAP. on the 18th rep with NO HELP, keep getting transferred.",billing_payment,billing_payment,billing_payment
+2827035,@VerizonSupport Yes and no internet light is on,internet_connectivity,internet_connectivity,internet_connectivity
+1543877,"@115722 day 8,29 hrs phone/ store. fraudcontracts, cover up district manager. @12165, and @9988 docs and recordings",plan_upgrade,plan_upgrade,plan_upgrade
+658431,"@VerizonSupport Wireless, it's a residential connection.",internet_connectivity,internet_connectivity,internet_connectivity
+1427578,@VerizonSupport My router is connected to the ONT. I’m connected to the router using Ethernet directly. Getting same results. Are you having an outage?,service_outage,service_outage,service_outage
+2429526,@VerizonSupport once again I️t says Nfl redzone hd isn’t working... last time we had to upgrade to get I️t back this is ridiculous,plan_upgrade,plan_upgrade,plan_upgrade
+2953220,@VerizonSupport is cell service down in Arvada CO area? Calls and internet are almost non existent,service_outage,internet_connectivity,internet_connectivity
+568526,@VerizonSupport Problem ultimately resolved...but it shouldn't be so hard (and long) to place an order for new service,order_equipment,order_equipment,order_equipment
+2592864,@VerizonSupport Tried it and it didn’t work,general_support,general_support,general_support
+1308454,"@VerizonSupport Red and white. Also, all of my services are down.",service_outage,service_outage,service_outage
+998534,@VerizonSupport basically just what the heck I'm supposed to do with a router I don't even need anymore :P,internet_connectivity,internet_connectivity,internet_connectivity
+2582610,"@VerizonSupport I've sat on the phone for 40 minutes and not one person can tell me what is on my order, my appointment time, my cost, if I can add another receiver, or get me access online.",billing_payment,order_equipment,order_equipment
+599251,@115722 worse thing ever to have this company for cable tv. A month with issues and nothing has been resolved!! They have really bad customer svc.,general_support,internet_connectivity,unknown
+647321,@115725 So ya’ll just damage customers property and not take responsibility for it ? https://t.co/bzPFmtrH7R,general_support,general_support,unknown
+1136613,@115722 I was told to call Consumer Sales and Solutions Center and guess what?? They’re not avail to take calls now. I’m done with @115722,general_support,billing_payment,unknown
+2598343,"@VerizonSupport Same problems I was having before: either no internet connection or it's super slow. Gifs don't load, videos stuck buffering, etc.",internet_connectivity,internet_connectivity,internet_connectivity
+1335916,1/2 @115725 @verizonsupport cust svc is AWFUL. 3 mos into the account and I have been on the phone with billing for,billing_payment,billing_payment,billing_payment
+1253594,"@VerizonSupport No, the internet got disconnected 3 hours ago, we tried to troubleshoot the first hour then tried to contact support afterwards.",internet_connectivity,internet_connectivity,internet_connectivity
+2614576,"@115725 is TRASH!!!🗑 Their customer service team is rude, they dont want to help you just get you off the phone.",general_support,general_support,general_support
+2243228,@VerizonSupport Can I confirm who is listed as authorized an user under my account?,general_support,account_authentication,account_authentication
+1243611,@VerizonSupport having an internet outage for the last 20 mins or so,service_outage,service_outage,service_outage
+752597,@115722 my bill with @119000 is 141. I’m trying to switch over,billing_payment,billing_payment,billing_payment
+1792802,Pissed!! I can’t believe I let the sales person in @ATT convince me to get @117830. @117830 is horrible! Switching back to @115722.,general_support,internet_connectivity,unknown
+359698,. @115725 kind of sucks. Expensive and slow. That's a bad combination,general_support,general_support,unknown
+2818338,@VerizonSupport I’m having a problem with connecting to my internet. Recently had a power outage and it was working fine but now it won’t connect,service_outage,service_outage,service_outage
+364344,"@VerizonSupport Hi, I guess I gave up before you replied.  Time's tight.",general_support,general_support,general_support
+2377804,@VerizonSupport after 2:15:49 and still no resolution to the problem and I have to go to work in the morning 😔😔😔😔😔 https://t.co/3h7YV0YSqF,general_support,general_support,general_support
+1545400,"@VerizonSupport It was the WiFi Assist under the ""Cellular"" menu on iPhone.  You have to turn that off.  That was the trick.",internet_connectivity,internet_connectivity,internet_connectivity
+1306288,@115722 have to be kidding me with this shit.  We pay hundred$ a month n can't even watch Roku.  Constantly loading.  @5335 what up? https://t.co/KN8qFbMbKv,general_support,internet_connectivity,unknown
+2753200,@VerizonSupport Thanx it's a discrepancy with an upgrade reward.  The site showed on thing when I placed the order but I received something different.,order_equipment,order_equipment,order_equipment
+976624,@VerizonSupport Wireless,general_support,general_support,general_support
+245650,Told @115725 every other month for the last 2 years to change my account to my married name...still getting bills with the wrong name.,billing_payment,billing_payment,billing_payment
+858668,We almost switched to Verizon today but when the tech guy came to install we discovered a lot of what the sales guy told us was completely wrong.  Sooo we're sticking with Optimum for now at least.,general_support,internet_connectivity,unknown
+63536,"@VerizonSupport why does it take 2 days to complete a speed upgrade, ped was upgraded, order submitted to backend and I have to wait 24 hrs",order_equipment,order_equipment,order_equipment
+1543122,@115722 why is the cable out in my area? Are you guys planning on rectifying this situation anytime soon?,plan_upgrade,plan_upgrade,plan_upgrade
+1340693,Bye @116136 hello @115722,general_support,internet_connectivity,unknown
+2552998,@VerizonSupport Residential - at this point I want a refund,billing_payment,general_support,billing_payment
+677865,"@VerizonSupport I checked you guys are in my area, i will call and order fios either Thursday morning or Friday, its a dam shame @115955 having family over and can't even watch/surf anything. #ThanksgivingFail",internet_connectivity,internet_connectivity,internet_connectivity
+1545126,"@349148 @115725 why can't I find any chatter about outage?
+
+reconsider using Verizon if this is the way they react during an emergency.",service_outage,service_outage,service_outage
+2648803,"@VerizonSupport Internet keeps losing service, tv does not. Reset basement usually gets it back for a couple hours/days before it goes out again. Globe goes red on router but WiFi still on without any internet.",internet_connectivity,internet_connectivity,internet_connectivity
+1487111,@115722 tracert to google https://t.co/WJBQlYkg5Q,general_support,general_support,unknown
+2554793,@VerizonSupport Fios,internet_connectivity,internet_connectivity,internet_connectivity
+1621501,@VerizonSupport The issue is not the ethernet connection.  Don't let me download a my fios app with a speedtest to my phone if its not recommended.,service_outage,internet_connectivity,internet_connectivity
+942567,@VerizonSupport Is there an outage in Manhattan?,service_outage,service_outage,service_outage
+2231589,"@VerizonSupport I redeemed that credit for 2g of bonus data but when I tried to use it I got a message to contact customer service. I did, 2 days ago...",general_support,general_support,general_support
+2460941,"@115722 When I looked today, yes, and the router I have is a new one you sent me not too long ago",internet_connectivity,internet_connectivity,internet_connectivity
+2683772,"@VerizonSupport @525964 Well I just asked if you all will buy me out my contract, what’s the deal?",plan_upgrade,plan_upgrade,plan_upgrade
+2401091,"@115725 #sucks:  only for 2 extra days @115722 is charging 4 another month
+ @ATT @115714 @115911 @118156 @119736
+https://t.co/IxspcPfs9Z",general_support,billing_payment,unknown
+668054,@VerizonSupport I was promised showtime at a certain cost and everyone I dealt with for my account handled it poorly - I was just on hold for 2 hours waiting for a supervisor,billing_payment,account_authentication,account_authentication
+2769985,"@VerizonSupport no Fios in our section of town
+HELP! Nov21 7:30.",internet_connectivity,internet_connectivity,internet_connectivity
+197386,@VerizonSupport May / June. I complained about this within a week and was told I needed to upgrade - so I didnt.  Bit the bullet yesterday.,plan_upgrade,plan_upgrade,plan_upgrade
+2899207,@709884 @115722 🤬,general_support,internet_connectivity,unknown
+1012315,@VerizonSupport Doh! I found the fix. Note to self. Cats can unplug cables sometimes when they run around,general_support,general_support,general_support
+152485,.@115722 was considering getting #fios over #comcast  then I saw how they built their box 2 feet over our growing tree. #profitovercare https://t.co/ULgNPUqZ8L,internet_connectivity,internet_connectivity,internet_connectivity
+2379147,I need someone from@.@115725 .@VerizonSupport to explain how my order was cancelled when I didn’t cancel it please.,order_equipment,order_equipment,order_equipment
+698285,"Hey @115725, my landline's been out of order for 3 MONTHS. 2 repair people failed to fix it. You blew today's time window. FIX MY PHONE!!!!",order_equipment,order_equipment,order_equipment
+328859,"@VerizonSupport just checked phone, appears to be ok. Pls don't make me upgrade to new iOS",plan_upgrade,plan_upgrade,plan_upgrade
+1224021,"@115725 
+What is the current status for the widespread outage for phone customers on LI &amp; all 5 boros? No dial tone since early this am. :(",service_outage,service_outage,service_outage
+94950,"@Ask_Spectrum Outside last night's outage I can't complain about the service. The price was great too, until I found out that it was a 1-year promotion. At signing I asked a ton of times if it was permanent, was told yes. Not happy about that. Thinking about switching #fios",service_outage,service_outage,service_outage
+410891,@VerizonSupport Yes. But I’ve already ordered it. It’s already on my account. It’s an auto-renew from last season.,order_equipment,account_authentication,account_authentication
+2601093,@115990 hey my fios wifi is down due to an outage so is there any way i can get data back from using cellular?,service_outage,service_outage,service_outage
+2704676,@VerizonSupport @115725 @115722 honestly surprised at how you treat 15 year multi platform customers. I am trying to pay my bill using a gift card you provided and I’ve been on the phone for A WHOLE HOUR talking to 5 different reps,billing_payment,billing_payment,billing_payment
+2413735,@115722 online chat is the worst. 20 minutes of telling me the same thing 5 times. And making me wait 15 minutes just to tell me “ we chat representatives have limited access to customers accounts”. Hey @115946 what’s up?,general_support,account_authentication,account_authentication
+668059,"@115722 First day of service and I’m already disappointed, waiting 2+ hours to get a phone call; Will a manager ever call me back?",general_support,billing_payment,unknown
+567287,@VerizonSupport I live in an apartment building and your link doesn’t work,general_support,general_support,general_support
+540508,"@245401 @24648 Watching from Portsmouth, Virginia on @115722 ! Hoping to see  @150729 pull off a big road win !",general_support,general_support,unknown
+964798,@115722 Optimum has a great deal right now and monthly total comes out to less than what I'm paying now...been a customer for a 3 years,general_support,billing_payment,billing_payment
+1253201,2nd time in 5 days that there's been a @115725 outage at this exact time! Making us wait 3 hours to fix it is ridiculous!😡 @VerizonSupport,service_outage,service_outage,service_outage
+94954,@VerizonSupport They want me to do a secure chat on Facebook but I need a link.,general_support,general_support,general_support
+2925234,"@VerizonSupport is there an area outage for New Hyde Park, NY?  I have no Internet/TV",service_outage,service_outage,service_outage
+2955626,@115722 do you guys have any specials for customers looking to switch from @116136?,general_support,internet_connectivity,unknown
+223784,@VerizonSupport is there some kind of outage or maintenance in the area of Sandston Virginia?,service_outage,service_outage,service_outage

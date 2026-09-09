@@ -1,0 +1,26 @@
+customer_tweet_id,customer_text,evaluation_intent,predicted_intent
+584851,@VerizonSupport I want to pay off my phone to get a new one and wondering what else I would need to pay besides the activation fee? Please respond,general_support,billing_payment
+1939557,@VerizonSupport I AM MOVING INTO A NEW PLACE SO THIS WOULD BE A NEW ACCOUNT. THE SERVICE I AM RECIVING IS HORRIBLE GOING TO TELL EVERYONE I KNOW.,general_support,account_authentication
+1634627,"another month, another $130 to @115725. one dollar per five kilobytes of download speed. https://t.co/LsYqoN3KGh",service_outage,general_support
+1749583,I pay too much for your service to suck @115725 😒,general_support,billing_payment
+1148472,"@117310 @115725 You’re a hypocrite Univision. Because it’s free on an antenna, yet you want Verizon customers to pay more for your channel.",general_support,billing_payment
+388692,"@VerizonSupport Aside from having a broken tablet I'm still paying for, I'm dealing with a snarky, confused CS rep who seems to be way in over his head.",general_support,billing_payment
+377912,@205677 @VerizonSupport I'm having the same problems. All my premium accounts have logged me out and are saying I don't subscribe.,general_support,account_authentication
+61958,"@VerizonSupport 11 year customer...paid over $50k to @115725 over that time. Trying to drop a single phone line from my account and get stonewalled with ""this is our policy"" BS... YOUR POLICY AND CUSTOMER SUPPORT MAKE PEOPLE HATE YOUR COMPANY https://t.co/3JOSZqUUTr",general_support,account_authentication
+2352667,@VerizonSupport No clue....I’m connected to the 5G option,internet_connectivity,general_support
+1106290,So glad my cable decides not to work right before kickoff. @115722 go fuck yourself.,general_support,internet_connectivity
+302852,"@VerizonSupport can you help with business accounts? specifically, online account services. thank you.",general_support,account_authentication
+2711208,"Thanks @115725 @115722 for getting back to
+@117310 again.Very Grateful!!! Thanks!!!!!!",general_support,billing_payment
+2081462,"@VerizonSupport 
+
+I need to open a new business account. I tried calling customer service but it said they're closed. Please help",general_support,account_authentication
+2228499,"I was told by @115725 staff in store I had to call a number to get my new account done
+
+HOW WHEN MY SERVICE WAS SUSPENDED",general_support,account_authentication
+1255287,@115722 @115722 hello!?! Very upset that I️ lost paybyeatersy because you sent bad network extender and took 4 hours to install. Tech was GR8!!,general_support,internet_connectivity
+1299250,@VerizonSupport why did you add services to my account that I did not sign up for? #fraud,general_support,account_authentication
+411704,@115722 any network problems? I get an error that my account info can’t be verified due to a network issue,general_support,account_authentication
+2187329,@VerizonSupport i feel i am not going to like the response your phone rep is going to give me. better to not opt anyone in to renewals if it will cost them money to get out. better let them renew when they become aware they are no longer part of a plan.,billing_payment,plan_upgrade
+315817,@VerizonSupport yes. i need my account scrubbed.,general_support,account_authentication
+2208984,@VerizonSupport one of your customers signed up for a Verizon account using my email address (hopefully by mistake). How can I get my email address removed from your database so I stop getting low data emails for an account I don't have?,general_support,account_authentication
